@@ -6,3 +6,5 @@ source("https://bioconductor.org/biocLite.R")
 biocLite("VariantAnnotation")
 source("https://bioconductor.org/biocLite.R")
 biocLite("AnnotationHub")
+
+# Then download R script and run!
